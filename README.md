@@ -50,17 +50,21 @@ The app uses the preloaded context string about Cesar’s experience, skills, an
 - Gunicorn (for production deployment).
 
 
-📄 License
+## 📄 License
 
 This project is open source under the MIT License.
 Feel free to use or modify it to build your own AI-powered portfolio.
 
-🙌 Acknowledgments
+## Website 
+https://askaboutcesar.onrender.com
+
+## 🙌 Acknowledgments
 
 Developed by Cesar Augusto Vargas Santini
 
 University of Toronto – Faculty of Applied Science and Engineering
 
 Built with guidance from modern AI tools like Cursor and OpenAI models
+
 
 
